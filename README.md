@@ -6,3 +6,5 @@ Basically the Program uses an Algorithm Called Luhn Algorithm .
 The Software Takes in a Credit Card number of any type VISA,MASTERCARD,AMERICAN Express and
 returns Whether or not the Credit Card is Valid or Invalid But also What Card Exactly it is.
 
+I have used the STDIO Library , MATH and the CS50 from my course at Harvard
+
