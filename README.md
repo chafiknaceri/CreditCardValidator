@@ -1,4 +1,4 @@
-# CreditCardValidator
+# Credit Card Validator
 
 I have Created a Credit Card Validator using Pure C .
 
